@@ -1,0 +1,14 @@
+/* Basic layout tweaks for the simple Home page */
+#root {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 2rem 1rem;
+}
+
+input {
+  border-radius: 8px;
+  border: 1px solid #3a3a3a;
+  background: transparent;
+  color: inherit;
+}
